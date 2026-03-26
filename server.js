@@ -24,10 +24,10 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'gpt-oss-120b': 'nvidia/llama-3.1-nemotron-ultra-253b-v1',
   'gpt-4': 'z-ai/glm4.7',
-  'claude-3-opus': 'z-ai/glm5',
+  'claude-3-opus': 'deepseek-ai/deepseek-r1-0528',
   'gpt-4o': 'deepseek-ai/deepseek-v3.1',
   'gpt-3.5-turbo': 'deepseek-ai/deepseek-v3.2',
-  'gpt-4-turbo': 'openai/gpt-oss-20b',
+  'gpt-4-turbo': 'z-ai/glm5',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
 
