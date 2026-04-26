@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'deepseek-ai/deepseek-v4-flash',
   'gpt-4o': 'deepseek-ai/deepseek-v4-pro',
   'gpt-3.5-turbo': 'deepseek-ai/deepseek-v3.2',
-  'gpt-4-turbo': 'z-ai/glm5',
+  'gpt-4-turbo': 'z-ai/glm5.1',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
 
